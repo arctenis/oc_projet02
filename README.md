@@ -1,2 +1,5 @@
-# oc_projet02
-OC Projet 2
+# Scraping project
+
+To launch this script :
+
+`python3 main.py`
